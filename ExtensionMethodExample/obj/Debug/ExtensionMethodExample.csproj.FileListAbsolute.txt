@@ -1,0 +1,7 @@
+D:\A-Teaching\Centennial\Summer2019\Code Examples\Week09_CodeExamples_S19\FilterMapReduce\ExtensionMethodExample\bin\Debug\ExtensionMethodExample.exe.config
+D:\A-Teaching\Centennial\Summer2019\Code Examples\Week09_CodeExamples_S19\FilterMapReduce\ExtensionMethodExample\bin\Debug\ExtensionMethodExample.exe
+D:\A-Teaching\Centennial\Summer2019\Code Examples\Week09_CodeExamples_S19\FilterMapReduce\ExtensionMethodExample\bin\Debug\ExtensionMethodExample.pdb
+D:\A-Teaching\Centennial\Summer2019\Code Examples\Week09_CodeExamples_S19\FilterMapReduce\ExtensionMethodExample\obj\Debug\ExtensionMethodExample.csprojAssemblyReference.cache
+D:\A-Teaching\Centennial\Summer2019\Code Examples\Week09_CodeExamples_S19\FilterMapReduce\ExtensionMethodExample\obj\Debug\ExtensionMethodExample.csproj.CoreCompileInputs.cache
+D:\A-Teaching\Centennial\Summer2019\Code Examples\Week09_CodeExamples_S19\FilterMapReduce\ExtensionMethodExample\obj\Debug\ExtensionMethodExample.exe
+D:\A-Teaching\Centennial\Summer2019\Code Examples\Week09_CodeExamples_S19\FilterMapReduce\ExtensionMethodExample\obj\Debug\ExtensionMethodExample.pdb
